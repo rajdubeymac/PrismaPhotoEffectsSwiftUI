@@ -1,0 +1,10 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "--",
+  "MLModelCreatorDefinedKey" : {
+    "com.github.apple.coremltools.version" : "5.2.0",
+    "com.github.apple.coremltools.source" : "torch==1.10.0+cu111"
+  },
+  "MLModelAuthorKey" : "theappdoor",
+  "MLModelLicenseKey" : "--"
+}

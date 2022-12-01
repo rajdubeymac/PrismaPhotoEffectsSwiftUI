@@ -1,0 +1,15 @@
+{
+  "Outputs" : {
+    "outputImage" : {
+      "MLFeatureShortDescription" : "Stylized image"
+    }
+  },
+  "Inputs" : {
+    "inputImage" : {
+      "MLFeatureShortDescription" : "Image to stylize"
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}

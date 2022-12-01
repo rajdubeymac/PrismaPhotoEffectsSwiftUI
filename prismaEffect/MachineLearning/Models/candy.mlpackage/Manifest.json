@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "6C4D532F-5522-4AC2-B4A3-2CAB68406CBB": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "7F1AC673-86BD-48CD-932D-2DDDB0400A84": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "B3135C2D-AA21-4894-A894-D3D4E3737B8F": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "FNS-Candy.mlmodel",
+            "path": "com.apple.CoreML/FNS-Candy.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "B3135C2D-AA21-4894-A894-D3D4E3737B8F"
+}

@@ -1,0 +1,15 @@
+{
+  "Outputs" : {
+    "squeeze_out" : {
+      "MLFeatureShortDescription" : "output pixelBuffer"
+    }
+  },
+  "Inputs" : {
+    "input" : {
+      "MLFeatureShortDescription" : "input image"
+    }
+  },
+  "TrainingInputs" : {
+
+  }
+}

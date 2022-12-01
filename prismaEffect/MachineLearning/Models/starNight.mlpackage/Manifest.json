@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "3353FF59-8391-4CAC-8EE7-EB8002CD1A73": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "99FD535E-83B2-4F3F-886B-1737C3165460": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "F4AA7BC0-B2D2-4D02-A7C8-9DE3D0261EF8": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "StarryNight.mlmodel",
+            "path": "com.apple.CoreML/StarryNight.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "F4AA7BC0-B2D2-4D02-A7C8-9DE3D0261EF8"
+}

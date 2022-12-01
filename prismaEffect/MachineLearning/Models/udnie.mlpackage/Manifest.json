@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "07B65C30-1C8A-40EE-AB76-32E068CA0619": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "B7B06B8F-7775-4E42-B320-563A68AC385C": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "F7E3F00D-56FC-4788-A13E-2E362C2AF7A0": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "FNS-Udnie.mlmodel",
+            "path": "com.apple.CoreML/FNS-Udnie.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "F7E3F00D-56FC-4788-A13E-2E362C2AF7A0"
+}
