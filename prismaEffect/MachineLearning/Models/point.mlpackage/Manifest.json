@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "1A9E7927-F056-4AD5-81EB-43711D287442": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "Pointillism.mlmodel",
+            "path": "com.apple.CoreML/Pointillism.mlmodel"
+        },
+        "295C1853-262F-40ED-A0F3-5B213B071F70": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "EF2AEB2F-BF20-4246-8A2D-8535EDFAD921": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        }
+    },
+    "rootModelIdentifier": "1A9E7927-F056-4AD5-81EB-43711D287442"
+}

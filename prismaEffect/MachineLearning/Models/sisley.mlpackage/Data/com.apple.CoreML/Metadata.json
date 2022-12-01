@@ -1,0 +1,16 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "--",
+  "MLModelCreatorDefinedKey" : {
+    "Algorithm" : "cnn",
+    "com.apple.coreml.model.preview.type" : "styleTransfer",
+    "com.apple.createml.version" : "12.4.0",
+    "com.apple.coreml.model.preview.params" : "image",
+    "com.apple.createml.app.tag" : "78.8",
+    "Textel Density" : "352",
+    "com.apple.createml.app.version" : "3.0",
+    "Style Strength" : "5"
+  },
+  "MLModelAuthorKey" : "theappdoor",
+  "MLModelLicenseKey" : "--"
+}

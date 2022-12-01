@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "7283E4FF-582D-4F4D-92EC-2661B95F87FB": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "9D4C0045-40FB-4C8C-B41F-24F72E83DB37": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "MyStyleTransferSisley.mlmodel",
+            "path": "com.apple.CoreML/MyStyleTransferSisley.mlmodel"
+        },
+        "CC418CE1-88A7-41EC-90A4-2AC128DB902B": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "9D4C0045-40FB-4C8C-B41F-24F72E83DB37"
+}

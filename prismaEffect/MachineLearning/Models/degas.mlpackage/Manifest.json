@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "4AC3CB88-EA6E-49C9-849E-F2F48C7F6C12": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "MyStyleTransferDegas.mlmodel",
+            "path": "com.apple.CoreML/MyStyleTransferDegas.mlmodel"
+        },
+        "4EAEBE6E-5E63-4204-A027-8D88D1F1C6D0": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "83853553-7F37-4769-AFAF-EE634B71EB07": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "4AC3CB88-EA6E-49C9-849E-F2F48C7F6C12"
+}
